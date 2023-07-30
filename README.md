@@ -2,7 +2,7 @@
 
  ![image](https://github.com/NilanchalaPanda/DICEGAME/assets/110488337/3ee4ef42-4f71-4337-8707-ac5a82fc6d38)
 
-This Git repository contains the code for a captivating and interactive two-player dice game implemented in Python. The game follows a set of rules designed to create an engaging and competitive experience. Here are the rules of the game:
+This repository contains the code for a captivating and interactive two-player dice game implemented in JavaScript. The game follows a set of rules designed to create an engaging and competitive experience. Here are the rules of the game:
 
 1️⃣ The game requires two players.
 2️⃣ Each player takes turns rolling a six-sided dice.
