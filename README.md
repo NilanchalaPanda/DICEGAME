@@ -1,4 +1,4 @@
- 🎲 Two Player Dice Game 🎲 : 
+ 🎲 Two Player Dice Game 🎲 : https://nilanchalapanda.github.io/DICEGAME/
 
  ![image](https://github.com/NilanchalaPanda/DICEGAME/assets/110488337/3ee4ef42-4f71-4337-8707-ac5a82fc6d38)
 
