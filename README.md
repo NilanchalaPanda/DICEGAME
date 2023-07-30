@@ -19,7 +19,6 @@ This Git repository contains the code for a captivating and interactive two-play
 To get started, let's clone this repository and follow the instructions in the README file. It will guide you through the cloning process and provide detailed information on how to run the game, its dependencies, and additional setup guidelines.
 
 📥 Clone this repository:
-
 <code> git clone <repository_url> </code>
 
 Please note that this repository is meant for recreational purposes, and any real-world applications or adaptations should be handled with appropriate considerations and modifications.
